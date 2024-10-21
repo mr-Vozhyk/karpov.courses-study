@@ -1,0 +1,7 @@
+Test document
+This doc created for study Git
+
+1. What is it - Git?
+2. Haw does it work?
+3. What methods and arguments it have?
+
